@@ -1,2 +1,2 @@
 # better-mfstaj
-Bilkent MFStaj'ın çoklu filtrelemeye / sıralamaya olanak sağlayan hali
+Bilkent MFStaj'ın çoklu filtrelemeye / sıralamaya olanak sağlayan hali.
